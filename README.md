@@ -455,5 +455,14 @@ Build version
 30.00-CL-33760522				28HcEgy7v5S-xhFEBU65IQzhQcfymQ
 
 
+Use Legendary to install all manifests.
+To play any builds past S15, I recommend using Carbon, any builds prior to that I recommend using Reboot V3 or Rift to play.
+
+The Big Bang Event
+Star Wars Mini Event
+Statue Event (Need Manifest or build for C5S2)
+
+Can all be played using Carbon, for any prior events use reboot or rift.
+
 
 
