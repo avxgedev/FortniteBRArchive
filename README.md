@@ -460,7 +460,7 @@ To play any builds past S15, I recommend using Carbon, any builds prior to that 
 
 The Big Bang Event
 Star Wars Mini Event
-Statue Event (Need Manifest or build for C5S2)
+Statue Event
 
 Can all be played using Carbon, for any prior events use reboot or rift.
 
